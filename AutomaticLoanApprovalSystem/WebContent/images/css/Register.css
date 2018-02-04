@@ -1,0 +1,64 @@
+@charset "utf-8";
+/* CSS Document */
+body,div,h1,h2,h3,h4,h5,h6,l,ul,a,hr{margin:0px; padding:0px}
+body{font-family:"Bell MT", "Baskerville Old Face"; width:100%; margin:auto;}
+.clr{clear:both}
+.header{
+	background:#3E3E3E;
+
+	height:100px;
+}
+.header h1{text-align:center;
+color:#FFF;
+margin:0px;
+padding:20px;}
+.header h1:hover{color:#0CF;}
+.mid {width:100%;
+background:url(images.png);
+
+
+}
+
+.f2{
+	width: 92%;
+}
+.mid1{
+	width:200px;
+
+	float:left;
+	
+}
+.mid2{
+	margin:10px;
+	width:900px;
+	background:#FFF;
+	float:left;
+	border:solid #006;
+	vertical-align:central;
+	
+}
+.mid3{
+	width:200px;
+	
+	float:left;ff
+}
+.formData{ 
+	padding:20px;
+}
+.tdlabel{
+
+		font-size:larger; font-weight:bold;
+	text-align:left;
+	color:#000;
+	}
+.form-control2{
+	width:50%;}
+	
+tblmargin{
+	margin:10px;
+}
+
+.topmenu:hover{
+	background:red;
+	color:green;
+}
